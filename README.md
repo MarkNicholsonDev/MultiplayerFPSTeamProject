@@ -3,7 +3,7 @@
  The project was created with a team of 8 students to create a splatoon like game prototype which was cross platform with PS4
  and also multiplayer in a two month period.
 
-# Referring Specifically to the things I contributed:
+# My contributions to the project:
 - The surface painting system from storing paint data, applying paint in data, visually applying the paint and detecting it. 
 ###	- Scripts where this is done/utilised:
 		- CSC8503: Player.cpp/.h, TutorialGame.cpp/.h
