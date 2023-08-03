@@ -4,7 +4,7 @@
  and also multiplayer in a two month period.
 
 # Referring Specifically to the things I contributed:
-## - The surface painting system from storing paint data, applying paint in data, visually applying the paint and detecting it. 
+- The surface painting system from storing paint data, applying paint in data, visually applying the paint and detecting it. 
 ###	- Scripts where this is done/utilised:
 		- CSC8503: Player.cpp/.h, TutorialGame.cpp/.h
 		- Assets: compute.comp, detection.comp, scene.frag, scene.vert
